@@ -1,0 +1,9 @@
+<Actor-Name> 's secret hobby is <emotional-adjective> <hobby> .
+Every week they spend <number-less-than-168> hours working on their hobby.
+They like to listen to <singer> while they do their hobby.
+They also have <number-less-than-10> pets, who try to participate in the hobby too.
+Their best friend is <Another-Actor-Name> , who likes to <hobby> .
+Sometimes they work together. Sometimes they like to make food after.
+Their favorite food is <food> . When they make the food, they like to sing.
+Instead of singing everything correctly, they will often randomly sing
+" <random-noise> ".
